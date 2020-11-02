@@ -1,3 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Angular, TypeScript
-- 📫 How to reach me: adnanyuce@outlook.com
+- I'm Software Developer.
+- I'm mostly working with .Net Technologies.
+- I’m currently learning Angular, TypeScript and Blazor.
+- How to you reach me : adnanyuce@outlook.com
+- ⛺ + 🍺
